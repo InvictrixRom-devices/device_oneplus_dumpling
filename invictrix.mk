@@ -42,4 +42,7 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
 
 BUILD_FINGERPRINT := OnePlus/OnePlus5T/OnePlus5T:8.1.0/OPM1.171019.011/04110359:user/release-keys
 
+# Invictrix maintainer	
+INVICTRIX_MAINTAINER := BlackScorpion3 & BigRushDog
+
 TARGET_VENDOR := oneplus
