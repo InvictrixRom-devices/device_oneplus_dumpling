@@ -1,7 +1,22 @@
 [
   {
-    "repository":  "BlkScorp33/device_oneplus_msm8998-common",
+    "repository":  "InvictrixRom-devices/device_oneplus_msm8998-common",
     "target_path": "device/oneplus/msm8998-common",
     "branch":      "inv-8.1"
+  },
+  {
+    "repository":  "InvictrixRom-devices/device_oppo_common",
+    "target_path": "device/oppo/common",
+    "branch":      "inv-8.1"
+  },
+  {
+    "repository": "InvictrixRom-devices/kernel_oneplus_msm8998",
+    "target_path": "kernel/oneplus/msm8998",
+    "branch": "inv-8.1"
+  },
+  {
+    "repository": "InvictrixRom-devices/vendor_oneplus-new",
+    "target_path": "vendor/oneplus",
+    "branch": "inv-8.1"
   }     
 ]
